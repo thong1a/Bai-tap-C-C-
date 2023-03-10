@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Thong\Desktop\Thong\baitap\tong\Source.cpp(15,4): error C2146: syntax error: missing ';' before identifier 'a'
+C:\Users\Thong\Desktop\Thong\baitap\tong\Source.cpp(15,1): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+C:\Users\Thong\Desktop\Thong\baitap\tong\Source.cpp(15,6): error C2059: syntax error: '+='
+C:\Users\Thong\Desktop\Thong\baitap\tong\Source.cpp(16,3): error C2181: illegal else without matching if
